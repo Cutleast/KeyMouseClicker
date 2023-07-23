@@ -1,0 +1,5 @@
+*.code-workspace
+.venv
+**/__pycache__
+main.dist
+Inno_Output

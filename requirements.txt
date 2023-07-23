@@ -1,0 +1,4 @@
+PySide6
+qtpy
+pynput
+nuitka
