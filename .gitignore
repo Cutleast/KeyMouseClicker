@@ -1,5 +1,21 @@
-*.code-workspace
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
 .venv
-**/__pycache__
-main.dist
-Inno_Output
+
+# User data
+/data
+
+# Development experiments
+/experiments
+
+# Generated Qt files
+/src/resources_rc.py
+/qt_lupdate.json
+/res/loc/*.qm
